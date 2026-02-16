@@ -11,7 +11,7 @@ Front-End | Flutter | Graphic Design | 3D Designer | Video Editor
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/faroukahmed2005/faroukahmed2005/output/snake.svg" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=faroukahmed2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
